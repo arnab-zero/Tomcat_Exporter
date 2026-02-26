@@ -9,6 +9,11 @@ import static org.junit.Assert.assertThat;
 import static org.hamcrest.CoreMatchers.is;
 import static org.hamcrest.CoreMatchers.notNullValue;
 
+// comment 1
+// comment 2
+// Comment 3
+// Comment 4
+
 
 public class TomcatServletMetricsFilterTest extends AbstractTomcatMetricsTest {
 
